@@ -2,8 +2,6 @@
 CMakeFiles/
 out/
 
-external/
-
 *.vcxproj
 *.vcxproj.filers
 *.cmake
