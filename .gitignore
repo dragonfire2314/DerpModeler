@@ -1,0 +1,11 @@
+.vs/
+CMakeFiles/
+out/
+
+external/
+
+*.vcxproj
+*.vcxproj.filers
+*.cmake
+
+CMakeCache.txt

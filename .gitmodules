@@ -1,0 +1,6 @@
+[submodule "glfw"]
+	path = external/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "glew"]
+	path = external/glew
+	url = https://github.com/nigels-com/glew.git
