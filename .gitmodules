@@ -1,0 +1,9 @@
+[submodule "ext/glew"]
+	path = ext/glew
+	url = https://github.com/nigels-com/glew.git
+[submodule "ext/glfw"]
+	path = ext/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "DerpEngine2.0"]
+	path = DerpEngine2.0
+	url = https://github.com/dragonfire2314/DerpEngine2.0.git

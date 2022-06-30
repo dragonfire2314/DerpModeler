@@ -7,8 +7,8 @@ project ("DerpModeler")
 
 # Include sub-projects.
 
-add_subdirectory(external/glfw)
+add_subdirectory(ext/glfw)
 # add_subdirectory(external/glew/build/cmake)
 
-add_subdirectory ("DerpEngine")
+add_subdirectory ("DerpEngine2.0")
 add_subdirectory ("DerpModeler")
