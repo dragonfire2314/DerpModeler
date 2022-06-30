@@ -18,6 +18,7 @@ target_include_directories(${PROJECT_NAME}
 
 target_link_directories(${PROJECT_NAME} 
     PRIVATE DerpEngine2.0
+    PRIVATE ext/glfw
 )
 
 target_link_libraries(${PROJECT_NAME} glfw)
