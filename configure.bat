@@ -1,1 +1,1 @@
-cmake -S . -D GLFW_BUILD_DOCS=OFF -G "Unix Makefiles"
+cmake -S . -D GLFW_BUILD_DOCS=OFF -D BUILD_UTILS=OFF -G "Unix Makefiles"

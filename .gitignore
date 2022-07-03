@@ -2,7 +2,8 @@
 .vscode/
 CMakeFiles/
 out/
-
+lib/
+bin/
 
 *.vcxproj
 *.vcxproj.filers
